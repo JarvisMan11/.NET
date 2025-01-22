@@ -7,7 +7,7 @@ class Program
     {
         // IKKUNAN ALUSTAMINEN
         Raylib.InitWindow(800, 800, "Näytönsäästäjä");
-        Raylib.SetTargetFPS(60);
+        Raylib.SetTargetFPS(240);
 
         // PISTEET A, B JA C
         Vector2 A = new Vector2(400, 0);
