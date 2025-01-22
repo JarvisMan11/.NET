@@ -36,15 +36,15 @@ There will definitely be more projects soon. Stay tuned for things that might ac
    git clone https://github.com/JarvisMan11/.NET.
 
 
-**Contributing**
+##Contributing##
 If you'd like to contribute, you can fork the repo and create a pull request. However, don't expect me to merge it immediately—I'm busy trying to pass this class.
 
 If you spot any bugs, open an issue, but keep in mind I’m not going to fix them unless they’re breaking the whole program. 😅
 
-**Motivation**
+##Motivation##
 The motivation behind these projects is simple: I need to pass this class, and creating a DVD screensaver seemed like a way to go. I hope these projects also teach me more about C# while making my professor think I know what I’m doing.
 
-**License**
+##License##
 This project is licensed under the "Please Don’t Fail Me" License. Feel free to use, modify, and contribute, but don't expect any promises of perfection or stability. You’re on your own, buddy! 😉
 
 
