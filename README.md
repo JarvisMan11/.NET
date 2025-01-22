@@ -42,7 +42,9 @@ If you'd like to contribute, you can fork the repo and create a pull request. Ho
 If you spot any bugs, open an issue, but keep in mind I’m not going to fix them unless they’re breaking the whole program. 😅
 
 ## Motivation
-The motivation behind these projects is simple: I need to pass this class, and creating a DVD screensaver seemed like a way to go. I hope these projects also teach me more about C# while making my professor think I know what I’m doing.
+These projects are part of my school assignments, and while I don't get to pick them, I'm still trying to make the best of it! The goal is simple: **pass the class** while learning C# and improving my coding skills. So far, it's been a mix of fun and panic as deadlines approach. 🤯
+
+Whether it's creating a bouncing DVD logo screensaver or a fancy screensaver, I’m learning something new with every project (and praying it works when it’s time to submit). 😅
 
 ## License
 This project is licensed under the "Please Don’t Fail Me" License. Feel free to use, modify, and contribute, but don't expect any promises of perfection or stability. You’re on your own, buddy! 😉
