@@ -33,7 +33,7 @@ There will definitely be more projects soon. Stay tuned for things that might ac
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/JarvisMan11/.NET.
+   git clone https://github.com/JarvisMan11/.NET.git
 
 
 ## Contributing
